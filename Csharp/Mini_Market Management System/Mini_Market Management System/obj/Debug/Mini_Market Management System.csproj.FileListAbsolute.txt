@@ -1,0 +1,17 @@
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe.config
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.pdb
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI2.dll
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.AssemblyReference.cache
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.LoginForm.resources
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.Properties.Resources.resources
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.GenerateResource.cache
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Mar.148EAD2C.Up2Date
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.exe
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.pdb
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SplashForm.resources
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.CategoryForm.resources
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.ProductForm.resources
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellerForm.resources
+C:\Users\tyagi\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellingForm.resources
